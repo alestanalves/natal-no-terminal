@@ -7,3 +7,7 @@ Requisitos:
 - Instale o colorama (pip install colorama)
 
 
+Para rodar abra o pasta com o arquivo:
+```
+python3 arvore.py
+```
