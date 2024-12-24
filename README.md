@@ -1,4 +1,4 @@
-# Sua árvore no terminal
+# Sua árvore no terminal 🎄
 
 Árvore de natal no seu terminal com Python
 
